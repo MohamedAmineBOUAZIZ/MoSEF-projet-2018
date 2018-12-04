@@ -1,9 +1,10 @@
-Mohamed Amine BOUAZIZ : Projet Linux Décemebre 2018
+Mohamed Amine BOUAZIZ : Projet Linux Décemebre 2018 MasterMoSEF2018
 
 Ce fichier va constituer un manuel permettant à l'utlisateur de comprendre comment modifier et exécuter le script qu'on a crée pour le Projet
-Linux.A travers l'éxécution du script l'utlisateur va pouvoir identifier les fichiers, d'un répertoire choisi préalablement ,qui ont subi des modifications il y a moins d'une semaine. Pour arriver à ce résultat lors de l'éxécution du script il faut suivre les étapes ci-dessous:
+Linux.A travers l'éxécution du script l'utlisateur va pouvoir identifier les fichiers, d'un répertoire choisi préalablement ,qui ont subi des modifications il y a moins d'une semaine.
+Pour arriver à ce résultat lors de l'éxécution du script il faut suivre les étapes ci-dessous:
 
-1)La première étape consiste à forker le dépot afin de transférer le contenu du répertoire MoSEF-Projet-2018 vers mon répertoire personnel: pour le faire il se rendre sur la page GIthub d'Amadou Balde (via le lien envoyé par mail) et cliquer sur le bouton "Fork" qui se trouve en hautet à droite
+1)La première étape consiste à forker le dépot afin de transférer le contenu du répertoire MoSEF-Projet-2018 vers mon répertoire personnel: pour le faire il faut se rendre sur la page GIthub d'Amadou Balde (via le lien envoyé par mail) et cliquer sur le bouton "Fork" qui se trouve en haut et à droite
 
 2)La deuxième étape consiste à cloner notre dépot en local pour pouvoir travailler sur le projet à partir de nos machines: ceci peut etre fait à travers la commande : git clone "Lien de notre dépot" ( dans mon cas c'est https://github.com/MohamedAmineBOUAZIZ/MoSEF-projet-2018.git)
 
